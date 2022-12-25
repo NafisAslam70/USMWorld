@@ -1,0 +1,9 @@
+#header-text .bg {
+    background-image: url('../images/logoUSM.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    opacity:0.25;
+}#desc-img-list-3col--0 .bg-wrap {
+    background-color: #f4f5f6;
+}
